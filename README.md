@@ -1,4 +1,5 @@
 # TicTacToe
+A simple Tic-Tac-Toe game I developed as a learning project while studying Angular.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 
